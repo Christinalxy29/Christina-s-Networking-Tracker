@@ -1,0 +1,212 @@
+{
+    "interactions": [
+        {
+            "id": "128c7f9c-4a66-465c-ad8c-44de89dc1930",
+            "date": "2025-11-07",
+            "who": "Nitish Kund",
+            "relationship": "alumni",
+            "anxiety": 2,
+            "tone": "positive",
+            "tags": [
+                "\u2615 Coffee Chat"
+            ],
+            "persona": "\ud83c\udf1f Supportive mentor",
+            "notes": "Day-to-day work as senior project manager in Mass General, Getting to know the EPIC system in healthcare industry as an analyst ",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 20
+        },
+        {
+            "id": "cfefa80e-3996-44e9-9f7c-29cf282d959d",
+            "date": "2025-11-05",
+            "who": "Preethi Abraham ",
+            "relationship": "alumni",
+            "anxiety": 3,
+            "tone": "positive",
+            "tags": [
+                "\u2615 Coffee Chat"
+            ],
+            "persona": "\ud83c\udf1f Supportive mentor",
+            "notes": "Day-to-day work in AG, important of research skills",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 25
+        },
+        {
+            "id": "f44bda7a-3614-46dd-94f5-f4f9350542a9",
+            "date": "2025-11-13",
+            "who": "Sayasha Luitel",
+            "relationship": "classmate",
+            "anxiety": 2,
+            "tone": "positive",
+            "tags": [
+                "\ud83d\udcac Casual conversation"
+            ],
+            "persona": "\u26a1 Energetic peer",
+            "notes": "Sharing Corporate Finance course as an business analyst student ",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 20
+        },
+        {
+            "id": "2812cb53-9536-4d79-a3f2-4e2895608fab",
+            "date": "2025-11-14",
+            "who": "Evan Goddard",
+            "relationship": "alumni",
+            "anxiety": 4,
+            "tone": "neutral",
+            "tags": [
+                "\ud83d\udcbc Networking Event"
+            ],
+            "persona": "\ud83c\udfad Formal professional",
+            "notes": "Fraud Analytics at BOA and mini research work, and how to apply your technical knowledge into different consultancy issue",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 25
+        },
+        {
+            "id": "43dd3f88-40dd-4ee1-bf45-789053592d6d",
+            "date": "2025-11-14",
+            "who": "Jonathan Korsah ",
+            "relationship": "alumni",
+            "anxiety": 2,
+            "tone": "positive",
+            "tags": [
+                "\ud83d\udcbc Networking Event"
+            ],
+            "persona": "\ud83c\udf1f Supportive mentor",
+            "notes": "High Ed website benefit for international student to look for job as an business analyst work in a university setting, job is heavy similar as creating your own startup ",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 20
+        },
+        {
+            "id": "b15eee01-7d95-457e-b410-2f47915db143",
+            "date": "2025-11-14",
+            "who": "Aniruddha Kokare",
+            "relationship": "alumni",
+            "anxiety": 3,
+            "tone": "neutral",
+            "tags": [
+                "\ud83d\udcbc Networking Event"
+            ],
+            "persona": "\ud83c\udfad Formal professional",
+            "notes": "Technical tools to learn as a BCG consultant, job application tips",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 15
+        },
+        {
+            "id": "d253229a-432c-4b7e-ba05-697f334a5625",
+            "date": "2025-11-14",
+            "who": "Himanshu Nagpal",
+            "relationship": "alumni",
+            "anxiety": 5,
+            "tone": "negative",
+            "tags": [
+                "\ud83d\udcbc Networking Event"
+            ],
+            "persona": "\ud83e\uddca Cold/brief connector",
+            "notes": "Analytics skills as former uber senior analytics. I didn't come with much prep, too nervous, and he seems very cold",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 30
+        },
+        {
+            "id": "8503ad26-e876-4480-8305-2192e47bb42a",
+            "date": "2025-11-14",
+            "who": "Christopher Janes",
+            "relationship": "alumni",
+            "anxiety": 3,
+            "tone": "calm",
+            "tags": [
+                "\ud83d\udcbc Networking Event"
+            ],
+            "persona": "\ud83c\udfad Formal professional",
+            "notes": "Importance of developing skills as an data engineer, transformative experience from fidelity to Raymond financial",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 10
+        },
+        {
+            "id": "0553c447-96a8-4e24-a991-a53d8d2aed1d",
+            "date": "2025-11-19",
+            "who": "Tory Surette ",
+            "relationship": "stranger",
+            "anxiety": 4,
+            "tone": "neutral",
+            "tags": [
+                "\ud83d\udcac Casual conversation"
+            ],
+            "persona": "\u26a1 Energetic peer",
+            "notes": "Talk about professional dancing career progression and interests ",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 25
+        },
+        {
+            "id": "dfe8dce6-5d94-4b35-99f7-1348e78beb25",
+            "date": "2025-11-20",
+            "who": "Irene Masezerano",
+            "relationship": "classmate",
+            "anxiety": 3,
+            "tone": "neutral",
+            "tags": [
+                "\ud83d\udcac Casual conversation"
+            ],
+            "persona": "\ud83e\uddca Cold/brief connector",
+            "notes": "Machine learning study ",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 15
+        },
+        {
+            "id": "2f794a07-c3a6-483d-92d8-cc3f40b3ff9f",
+            "date": "2025-11-29",
+            "who": "Eunice Ingabire",
+            "relationship": "classmate",
+            "anxiety": 1,
+            "tone": "excited",
+            "tags": [
+                "\ud83d\udcac Casual conversation"
+            ],
+            "persona": "\u26a1 Energetic peer",
+            "notes": "Work experience in Health care industry ",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 18
+        },
+        {
+            "id": "a34b7f00-de6f-44eb-a51e-2a644b790565",
+            "date": "2025-12-02",
+            "who": "Bhanu Prakash Immanni",
+            "relationship": "classmate",
+            "anxiety": 2,
+            "tone": "positive",
+            "tags": [
+                "\ud83d\udcac Casual conversation"
+            ],
+            "persona": "\u26a1 Energetic peer",
+            "notes": "Sharing his startup experience as a software developer ",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 20
+        },
+        {
+            "id": "9c1a012f-c9f5-4e3c-8200-117932610c02",
+            "date": "2025-12-03",
+            "who": "Shubhranshu Shekhar",
+            "relationship": "professor",
+            "anxiety": 3,
+            "tone": "positive",
+            "tags": [
+                "\ud83d\udcac Casual conversation"
+            ],
+            "persona": "\ud83c\udf1f Supportive mentor",
+            "notes": "Academic questions in terms of fronted website developing, and the usage of docker ",
+            "replay_you": "",
+            "replay_other": "",
+            "xp": 25
+        }
+    ]
+}
