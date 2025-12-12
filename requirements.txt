@@ -1,4 +1,4 @@
 streamlit
 pandas
 numpy
-streamlit-extras==0.0.5
+streamlit-extras
